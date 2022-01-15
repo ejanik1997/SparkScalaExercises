@@ -1,0 +1,10 @@
+{
+  "type": "record",
+  "name": "Retweet",
+  "namespace": "com.ejanikSparkScalaExercises",
+  "fields": [
+    {"name": "id","type": "int"},
+    {"name": "firstname","type": "string"},
+    {"name": "lastname","type": "string"}
+  ]
+}

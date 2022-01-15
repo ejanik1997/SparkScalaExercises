@@ -1,0 +1,9 @@
+{
+  "type": "record",
+  "name": "MessageDir",
+  "namespace": "com.ejanikSparkScalaExercises",
+  "fields": [
+    {"name": "messageid","type": "int"},
+    {"name": "text","type": "string"}
+  ]
+}

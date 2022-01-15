@@ -1,0 +1,10 @@
+{
+  "type": "record",
+  "name": "UserDir",
+  "namespace": "com.ejanikSparkScalaExercises",
+  "fields": [
+    {"name": "userID","type": "int"},
+    {"name": "firstname","type": "string"},
+    {"name": "lastname","type": "string"}
+  ]
+}
